@@ -3,7 +3,7 @@
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speech_recognition
 import datetime
-import wikipedia #pip install wikipedia
+import wikipedia #pip install wikipedia 
 import webbrowser
 import os
 import time
